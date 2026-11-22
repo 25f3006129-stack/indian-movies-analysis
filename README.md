@@ -17,12 +17,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn
 4. Built models to predict a movie's rating
 
 ## Key findings
-![Rating distribution](<img width="571" height="455" alt="Distribution IMDB rating" src="https://github.com/user-attachments/assets/05caebe8-f702-46ee-b526-ebaec0092194" />
-)
-![Average rating by decade](<img width="554" height="483" alt="Average rating By decade" src="https://github.com/user-attachments/assets/fe24131f-7826-4e36-95e0-a920d3b20ecb" />
-)
-![Log votes vs rating](<img width="562" height="455" alt="Log voted vs rating" src="https://github.com/user-attachments/assets/dce29e40-44c8-450c-b313-55808ff14876" />
-)
 ![Rating distribution](Distribution20%IMDB20%rating.png)
 ![Average rating by decade](Average20%rating20%By20%decade.png)
 ![Log votes vs rating](Log20%voted20%vs20%rating.png)

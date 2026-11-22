@@ -17,9 +17,11 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn
 4. Built models to predict a movie's rating
 
 ## Key findings
-![Rating distribution](Distribution20%IMDB20%rating.png)
-![Average rating by decade](Average20%rating20%By20%decade.png)
-![Log votes vs rating](Log20%voted20%vs20%rating.png)
+![Rating distribution](Distribution%20IMDB%20rating.png)
+![Average rating by decade](Average%20rating%20By%20decade.png)
+![Log votes vs rating](Log%20voted%20vs%20rating.png)
+![Correlation heatmap](correlation%20heatmap.png)
+![Observed vs Binomial vs Poisson](Bio%20VSpoisson.png)
 
 ### Exploratory analysis
 - Highest-rated genre: Biography (average 6.70, 84 movies), then Family (6.30, 52 movies) and Drama (6.25, 1,842 movies)

@@ -23,7 +23,9 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn
 )
 ![Log votes vs rating](<img width="562" height="455" alt="Log voted vs rating" src="https://github.com/user-attachments/assets/dce29e40-44c8-450c-b313-55808ff14876" />
 )
-
+![Rating distribution](Distribution20%IMDB20%rating.png)
+![Average rating by decade](Average20%rating20%By20%decade.png)
+![Log votes vs rating](Log20%voted20%vs20%rating.png)
 ### Exploratory analysis
 - Highest-rated genre: [FILL]
 - Highest-rated decade: [FILL]
